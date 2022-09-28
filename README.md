@@ -1,3 +1,5 @@
+![git logo](bannerimage.jpeg "Logo Title Text 1")
+
 # Learning github Desktop
 
 I'm happy to meet you!
