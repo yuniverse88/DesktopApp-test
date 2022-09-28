@@ -2,7 +2,7 @@
 
 # Learning github Desktop
 
-I'm happy to meet you!
+I'm happy to meet !
 
 
 ## Contributing
