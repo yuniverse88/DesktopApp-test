@@ -15,7 +15,7 @@ I'm happy to meet you!
 
 
 ## Credits
-Who works
+Yuni works
 js css
 TODO: Write credits
 
